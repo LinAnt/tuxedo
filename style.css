@@ -1,5 +1,38 @@
-h1{
-  color: pink;
-  font-size: 52px;
-  font-family: courier;
+h1,h2,h3,h4,p {
+  color: white;
+}
+h1 {
+    font-size: 52px;
+    font-family: courier;
+    margin-left: 20%;
+}
+a {
+  color: #4f45d8;
+}
+body {
+    background-color: black;
+}
+
+#Main {
+  width: 100%;
+  margin: 0 auto;
+}
+#LinksContainer {
+  float: left;
+  width: 45%;
+  margin-left: 20px;
+}
+#LinkGroup {
+  margin-left: 50px;
+}
+#PictureContainer {
+  border: 7px solid #4f45d8;
+  float: right;
+  padding: 10px;
+  width: 45%;
+  margin: 0 auto;
+}
+#PicOfMe {
+  margin: 5%;
+  width: 90%;
 }
